@@ -1,7 +1,9 @@
-var m1 = "m1 src2";
+var m1 = "m1 src2 r1";
 
 function getNumber() {
 	return 8;
 }
 
-var m2 = "m2 src2";
+function getAnotherNumber() {
+	return 7;
+}
