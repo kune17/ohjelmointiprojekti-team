@@ -1,0 +1,7 @@
+var m1 = "m1 src2";
+
+function getNumber() {
+	return 8;
+}
+
+var m2 = "m2 src2";
