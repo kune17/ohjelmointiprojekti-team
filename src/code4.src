@@ -1,0 +1,5 @@
+var uusiMj = '';
+
+function getUusiMj() {
+  return uusiMj;
+}
