@@ -1,7 +1,10 @@
 var m1 = "src1"
 
-function get SingleNumbeer () {
+function () {
+	return 45767888;
+}5
+function get TheNumbeer () {
 	return 45767888;
 }5
 funcitonnnnnnnn 4738949
-singlenumber
+TheNumbeer
