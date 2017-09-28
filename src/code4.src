@@ -1,0 +1,4 @@
+var uusi mj = ' ' ;
+function getUusi Mj () {
+return uusiMj
+}
